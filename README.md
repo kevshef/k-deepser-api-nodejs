@@ -1,5 +1,5 @@
 # NodeJS DeepDesk API
-<p>DeepDesk is a <a href="https://www.deep-desk.com/" rel="nofollow">help desk software</a>  and you can find more information in <a href="https://www.deep-desk.com/api/" rel="nofollow">DeepDesk API Docs</a> </p>
+<p>DeepDesk is a <a href="https://www.deep-desk.com/" rel="noopener">help desk software</a>  and you can find more information in <a href="https://www.deep-desk.com/api/" rel="noopener">DeepDesk API Docs</a> </p>
 
 <h2>Installation</h2>
 <p>To use it you need to install the node packages. Run this command in the terminal in the lib directory</p>
@@ -9,7 +9,7 @@ npm i
 ```
 
 <h2> Example </h2>
-<P>To start using <a href="https://www.deep-desk.com/" rel="nofollow">Deep Desk API</a> you need edit this form with you credentials </P>
+<P>To start using <a href="https://www.deep-desk.com/" rel="noopener">Deep Desk API</a> you need edit this form with you credentials </P>
 
 ```javascript
     DeepAPI.getInstance()
